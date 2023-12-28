@@ -250,3 +250,8 @@
   new PureCounter();
 
 })()
+
+function togglePublicationContent(header) {
+  var content = header.nextElementSibling;
+  content.style.display = (content.style.display === "block" ? "none" : "block");
+}
