@@ -729,7 +729,7 @@ section .container {
 --------------------------------------------------------------*/
 
 .publications .publication-card {
-  background: #0056b3; /* Dark blue background */
+  background: #18d26e; /* Dark blue background */
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Slightly stronger shadow for depth */
   margin-bottom: 20px;
@@ -743,7 +743,7 @@ section .container {
 }
 
 .publications .publication-header {
-  background: #007bff; /* Slightly lighter blue for the header */
+  background: #18d26e; /* Slightly lighter blue for the header */
   color: #fff;
   padding: 15px;
   font-size: 18px;
@@ -786,7 +786,7 @@ section .container {
 }
 
 .experience .experience-header {
-  background: #007bff;
+  background: #18d26e;
   color: #fff;
   padding: 15px;
   font-size: 18px;
